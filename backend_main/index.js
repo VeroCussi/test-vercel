@@ -1,4 +1,10 @@
-// //Server blocked if sequalize is not connected to the database
+require("dotenv").config();
+const serverless = require("serverless-http");
+const app = require("./app");
+module.exports = serverless(app);
+
+// version antigua del index 1
+//Server blocked if sequalize is not connected to the database
 // const app = require('./app');
 // const sequelize = require('./config/database');
 // require("dotenv").config();
@@ -17,11 +23,13 @@
 //     console.error('Unable to connect to the database:', error);
 //   });
 
+
+// version antigua del index 2
 // server woking even if database is not connected *************
 
-const app = require('./app');
+//const app = require('./app');
 // const sequelize = require('./config/database');
-require("dotenv").config();
+//require("dotenv").config();
 
 // const PORT = process.env.PORT || 8080;
 
