@@ -1,16 +1,21 @@
+// Comentado para añadir a index.js
 const express = require('express');
 const path = require('path');
 const cors = require('cors');
+const app = express();
+app.use(cors({ origin: '*' }));
+app.use(express.json());
+
+
+
 //const morgan = require('morgan');
 //const helmet = require('helmet');
 //const cookieParser = require('cookie-parser');
 require("dotenv").config();
 
 
-const app = express();
 
-app.use(cors({ origin: '*' }));
-app.use(express.json());
+
 
 //app.use(cookieParser());
 //app.use(morgan('dev'));
