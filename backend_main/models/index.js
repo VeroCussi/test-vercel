@@ -1,13 +1,13 @@
-const { Sequelize } = require('sequelize');
-const sequelize = require('../config/database');
+// // const { Sequelize } = require('sequelize');
+// // const sequelize = require('../config/database');
 
-// Import de nos structures de modèles
+// // Import de nos structures de modèles
 
-const UserModel = require('./modelUser');
+// const UserModel = require('./modelUser');
 
-// Redéfinition de nos modèles
+// // Redéfinition de nos modèles
 
-const User = UserModel(sequelize, Sequelize.DataTypes);
+// const User = UserModel(sequelize, Sequelize.DataTypes);
 
 
-module.exports = { sequelize, User };
+// module.exports = { sequelize, User };
