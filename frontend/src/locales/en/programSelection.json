@@ -1,0 +1,88 @@
+{
+    "toggle_titles": {
+      "left": "CHOOSE YOUR PROGRAM",
+      "right": "START WITH AN ASSESSMENT"
+    },
+    "programsA": [
+      {
+        "title": "MONTHLY SUBSCRIPTION",
+        "subtitle": "Online programs with videos",
+        "text": "Unlimited access to prenatal and postnatal programs, with guided videos and personalized advice every week.",
+        "forfait": "* monthly subscription",
+        "formule": "Choose your plan:",
+        "prix": ["€49 / month *", "€130 / 3-month commitment", "€240 / 6-month commitment"],
+        "links": [
+        "https://facebook.com",
+        "https://twitter.com",
+        "https://instagram.com"
+        ],
+        "buttonText": "START TODAY",
+        "defaultCheckedIndex": 0
+      },
+      {
+        "title": "ONE-TO-ONE SESSIONS",
+        "subtitle": "In-person or via Zoom",
+        "text": "A personalized 1-hour session adapted to your stage of maternity with attentive follow-up and tailored advice.",
+        "forfait": "* per-session package",
+        "formule": "Choose your plan:",
+        "prix": ["€60 / session", "€280 / 5-session pack", "€520 / 10-session pack"],
+        "links": [
+        "https://youtube.com",
+        "https://linkedin.com",
+        "https://reddit.com"
+        ],
+        "buttonText": "START TODAY",
+        "isHighlighted": true,
+        "defaultCheckedIndex": 1
+      },
+      {
+        "title": "GROUP CLASSES",
+        "subtitle": "In groups of up to 8 people.",
+        "text": "1-hour classes in small groups for quality support, based on the Gasquet method.",
+        "forfait": "* monthly subscription",
+        "formule": "Choose your plan (price per person):",
+        "prix": ["€15 / class", "€55 / month for 1 class/week*", "€100 / month for 2 classes/week*"],
+        "links": [
+        "https://tiktok.com",
+        "https://www.ginsengweb.fr/",
+        "https://www.pinterest.com"
+        ],
+        "buttonText": "START TODAY",
+        "defaultCheckedIndex": 0
+      }
+    ],
+    "programsB": [
+      {
+        "title": "PRENATAL ASSESSMENT",
+        "subtitle": "Your body evolves every day, bringing many questions.",
+        "text": "Take a few minutes to complete this prenatal assessment. It’s the first step to finding serenity and confidence in yourself. This moment is yours, a break to listen to your body and emotions.",
+        "text1": "Click the button below, and let’s start this beautiful journey together now.",
+        "prix": [],
+        "buttonText": "DO YOUR ASSESSMENT",
+        "isLargeText": true,
+        "formType": "prenatal"
+      },
+      {
+        "title": "POSTNATAL ASSESSMENT",
+        "subtitle": "After baby arrives, it's time to think about yourself.",
+        "text": "Take a few minutes to complete this postnatal assessment. It’s the first step to rediscover yourself and feel good in your body and mind.",
+        "text1": "Click the button below and let’s start this beautiful recovery together.",
+        "prix": [],
+        "buttonText": "DO YOUR ASSESSMENT",
+        "isHighlighted": true,
+        "isLargeText": true,
+        "formType": "postnatal"
+      },
+      {
+        "title": "I WANT TO GET BACK IN SHAPE",
+        "subtitle": "Ready to take control of your well-being?",
+        "text": "Take a few minutes to complete this global assessment. It’s the first step to getting back in shape and reaching your goals.",
+        "text1": "Click the button below and let’s start this beautiful journey together.",
+        "prix": [],
+        "buttonText": "DO YOUR ASSESSMENT",
+        "isLargeText": false,
+        "formType": "global"
+      }
+    ]
+  }
+  

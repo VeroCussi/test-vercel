@@ -1,0 +1,57 @@
+{
+  "titles": {
+    "prenatal": "Bilan Prénatal",
+    "postnatal": "Bilan Postnatal",
+    "global": "Bilan Global"
+  },
+  "questions": {
+    "age": "Quelle âge as-tu ?",
+    "firstChild": "Est-ce ton premier enfant ?",
+    "trimester": "En terme de trimestre, où en es-tu ?",
+    "postpartum": "J’ai accouché il y a :",
+    "reeducation": "As-tu fais tes séances de rééducation ?",
+    "activityBefore": "Avant de commencer ta grossesse, tu étais :",
+    "currentState": "Comment te sens-tu enceinte ?",
+    "objective": "Que recherches-tu ?",
+    "availability": "Quelles sont tes disponibilités ?",
+    "availabilityPost": "Quelles sont tes disponibilités pour t'entrainer avec moi ?"
+  },
+  "options": {
+    "age": ["20 - 25 ans", "25 - 30 ans", "30 - 35 ans", "+ 35 ans"],
+    "firstChild": ["Oui", "Non"],
+    "trimester": ["1er trimestre", "2e trimestre", "3e trimestre"],
+    "postpartum": ["1 mois", "3 mois", "6 mois", "Plus de 6 mois"],
+    "reeducation": ["Oui", "Non"],
+    "activity": ["Sportive", "Peu sportive", "Sédentaire"],
+    "currentState": ["Je me sens fatiguée", "En pleine forme", "J’ai des douleurs ligamentaires"],
+    "objective": ["Rester en forme", "De la détente", "Diminuer les douleurs", "Avoir de l’énergie"],
+    "availability": ["1 fois par semaine", "2 fois par semaine", "3 fois par semaine"]
+  },
+  "buttons": {
+    "next": "Continuer →",
+    "back": "Retour",
+    "submit": "S'inscrire",
+    "download": "Télécharge ton eBook gratuit",
+    "finish": "Terminer"
+  },
+  "messages": {
+    "success": "🎉 Merci pour tes informations !",
+    "downloadPrompt": "Télécharge ton eBook gratuit en cliquant sur le bouton ci-dessous.",
+    "schedule": "Réserve dès maintenant un créneau horaire",
+    "schedulePrompt": "Ne repousse plus à demain, lance-toi et reprends le contrôle !",
+    "validationError": "Veuillez sélectionner une option avant de continuer.",
+    "formSuccess": "Utilisateur ajouté avec succès",
+    "formError": "Échec de l'abonnement"
+  },
+  "form": {
+    "name": "Quel est ton prénom",
+    "email": "Ton adresse email",
+    "phone": "Ton numéro de téléphone ?"
+  },
+  "text": {
+    "text": "Hello, Hello !! Tu es enceinte et tu veux rester en forme pendant ta grossesse.",
+    "text1": "Hello, Hello !! Tu veux te reprendre en main en douceur, après la naissance de bébé :",
+    "text2": "Si non, je te recommande de faire tes séances de rééducation du périnée avant de commencer à t'entraîner.",
+    "text3": "Hello, Hello !! Tu veux te reprendre en main en douceur, après la naissance de bébé :"
+  }
+}

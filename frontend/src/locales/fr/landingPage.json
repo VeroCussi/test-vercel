@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "logoAlt": "Logo principal",
+    "title": "Que dirais-tu de rester en forme",
+    "subtitle": "pendant et après ta grossesse?",
+    "description": "Avec Diane, coach spécialisée en périnatalité, prends soin de toi en douceur et adopte des  ",
+    "description1": "routines saines",
+    "description2": "pour une",
+    "description3": "grossesse",
+    "description4": "et un",
+    "description5": "post-partum épanouis."
+  },
+  "buttons": {
+    "rdv": "RDV 15 MINS",
+    "programs": "TES PROGRAMMES"
+  },
+  "programsSection": {
+    "title": "MES PROGRAMMES SONT FAITS POUR TOI",
+    "yobson": "YOBSON",
+    "specialiste": "SPECIALISTE",
+    "de": "DE",
+    "la": "LA",
+    "remise": "REMISE",
+    "en": "EN",
+    "forme": "FORME",
+    "prenatal": "PRENATAL",
+    "et": "ET",
+    "postnatal": "POSTNATAL"
+  }
+}

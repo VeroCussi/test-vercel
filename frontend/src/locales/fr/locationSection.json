@@ -1,0 +1,15 @@
+{
+    "title": "Envie d'une séance entre mamans ?",
+    "subtitle": "Retrouve-moi en ",
+    "text": "Ile-de-France :",
+    "locations": [
+      { "name": "Rueil-Malmaison", "postal": "92500" },
+      { "name": "Roissy-en-Brie", "postal": "77680" },
+      { "name": "Ferrière en Brie", "postal": "77164" }
+    ],
+    "description": "Si vous préférez rester chez vous avec bébé, pas de problème ! Je peux te rejoindre pour des séances en One-to-One directement à domicile. Tu as aussi la possibilité de suivre mes cours en ligne et de profiter d'un accompagnement personnalisé, où que tu sois.",
+    "buttons": {
+      "collective": "COURS COLLECTIFS",
+      "one_to_one": "COURS ONE-TO-ONE"
+    }
+  }

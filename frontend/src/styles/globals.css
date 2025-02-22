@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --primary: #6F508D;
+  --white: #ffffff;
+  --sky: #2CA2B4;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  scroll-behavior: auto !important;
+  font-family: var(--font-inter);
+}
+
+h4, h5, h6, p, h1, h2, h3 { 
+  font-family: var(--font-ovink);
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  height: 8px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: var(--sky);
+  border-radius: 8px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background-color: #e5e5e5;
+  border-radius: 8px;
+}
+
+.grid-flow-dense {
+  grid-auto-flow: dense;
+}
+
+/* Method Card */
+.break-inside-avoid {
+  break-inside: avoid;
+  display: inline-block;
+  width: 100%;
+}

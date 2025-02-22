@@ -1,0 +1,82 @@
+{
+    "title": "Tu as encore des questions ?",
+    "subtitle": "Voici quelques réponses",
+    "faqs": [
+      {
+        "question": "Est-ce que je peux venir aux séances avec mon bébé ?",
+        "answers": [
+          "Oui, bien sûr, tu peux venir avec ton bébé !",
+          "Chez nous, ton bébé fait partie intégrante de cette belle aventure. Les cours sont pensés pour les mamans et leurs bébés, dans une ambiance bienveillante et apaisée. Tu pourras effectuer des exercices adaptés avec ton bébé, ce qui en fait un moment unique de complicité et de partage.",
+          "C'est l'occasion parfaite de prendre soin de toi, tout en vivant pleinement ta maternité. En plus, ces séances te permettront d'échanger avec d'autres mamans, de partager vos expériences et de créer des liens dans une atmosphère conviviale.",
+          "Ici, tout est fait pour que tu te sentes à l'aise. Alors, viens vivre cette expérience où bien-être, maternité et sport se rejoignent harmonieusement !"
+        ]
+      },
+      {
+        "question": "J’ai accouché la semaine dernière, est-ce trop tôt pour commencer ?",
+        "answers": [
+          "Pas du tout !",
+          "Oui, tu peux tout à fait commencer dès la semaine de ton accouchement. En fait, plus tu commences tôt, mieux c'est pour retrouver ta forme, ta vitalité, et même ta sexualité.",
+          "L'idée, c'est d'y aller en douceur, avec des exercices adaptés à ton rythme et à ton corps. Tout commence par reconnecter avec ton périnée, ta respiration et tes sensations.",
+          "Alors, pas de stress : prends ton temps, mais n'attends pas trop longtemps non plus, car chaque petit pas compte pour te sentir mieux rapidement. Et ne t'inquiète pas, je serai là pour t'accompagner à chaque étape, toujours avec douceur."
+        ]
+      },
+      {
+        "question": "Quels types d'exercices sont proposés pendant la grossesse ?",
+        "answers": [
+          "Pendant la grossesse, on privilégie des exercices doux et adaptés à ton corps qui change chaque jour. L'objectif ? T'aider à te sentir bien, à soulager tes éventuelles tensions, et à préparer ton corps pour le grand jour.",
+          "Tu retrouveras des activités comme le yoga prénatal, des exercices de respiration et de posture (merci la méthode de Gasquet !), ainsi que des mouvements qui renforcent en douceur tes muscles profonds, notamment ceux du périnée et des abdominaux. Pas de panique, on ne te demandera pas de faire des burpees avec ton ventre !",
+          "Ces séances sont là pour t'aider à mieux vivre ta grossesse, à réduire les douleurs, à améliorer ton sommeil et même à te donner un boost d'énergie. Tout ça, dans une ambiance apaisante et respectueuse de ton rythme.",
+          "Alors, prête à bouger avec bébé ? 😊"
+        ]
+      },
+      {
+        "question": "Proposes-tu des cours en ligne ou uniquement en présentiel ?",
+        "answers": [
+            "Bonne nouvelle : je propose les deux ! ",
+            "Si tu préfères te déplacer et profiter d'un moment hors de chez toi, les cours en présentiel sont parfaits pour toi. ",
+            "Et si ton planning est chargé ou que tu veux éviter les déplacements, les cours en ligne sont là pour ça. Tu peux te connecter quand tu veux, où tu veux, et suivre des séances adaptées à ton rythme, toujours avec mon guidage personnalisé.",
+            "Bref, que tu sois team chaussettes-chez-toi ou baskets-en-salle, il y a une option qui te correspond. L'important, c'est de te sentir bien et d'avancer à ton rythme."
+      ]
+      },
+      {
+        "question": "Quels sont les avantages de travailler avec un coach spécialisé en prénatal et postnatal ?",
+        "answers": [
+            "Être accompagné par un coach spécialisé, c'est un peu comme avoir une boussole pour naviguer sereinement pendant cette période unique de ta vie. ",
+            "Un coach formé au prénatal et postnatal comprend exactement ce que ton corps traverse : les changements hormonaux, physiques et émotionnels. Ça veut dire que chaque exercice est pensé pour toi, en respectant ton rythme, tes besoins, et surtout, la sécurité de ton corps. Exit les mouvements inadaptés ou les exercices qui pourraient te faire plus de mal que de bien !",
+            "Tu bénéficies également d'un accompagnement personnalisé qui prend en compte tes objectifs, que ce soit soulager des douleurs, te préparer à l'accouchement, retrouver de l'énergie après bébé, ou juste un moment pour toi. Et on ne va pas se mentir : avoir quelqu'un qui te motive et te soutenir quand la fatigue s'installe, ça change tout.",
+            "En plus, un coach spécialisé peut t'aider à éviter des erreurs classiques, comme forcer sur les abdos trop tôt après l'accouchement ou oublier de travailler le périnée (spoiler : il est super important).",
+            "Bref, c'est un mélange de sécurité, d'expertise, de bienveillance et de motivation, pour que tu te sentes soutenues et guidées à chaque étape. Et si tu as des doutes ou des questions, tu sais que tu n'es jamais seule dans cette aventure."
+        ]
+      },
+      {
+        "question": "Quels types d'exercices sont recommandés après l'accouchement ?",
+        "answers": [
+            "Après l'accouchement, on commence tout en douceur. L'idée n'est pas de foncer tête baissée dans un programme intensif, mais plutôt de reconnecter avec ton corps, étape par étape. ",
+            "On privilégie les exercices de respiration et de renforcement du périnée. Ensuite, on travaille sur les muscles profonds, comme les abdominaux transversaux, pour éviter de solliciter les zones encore fragiles et prévenir les problèmes comme le diastase.",
+            "Petit à petit, on introduit des mouvements pour améliorer ta posture, soulager les tensions (surtout si tu passes beaucoup de temps à porter bébé) et retrouver ton énergie. Et tout cela, toujours adapté à ton rythme, ton mode d'accouchement, et tes sensations.",
+            "Ce n'est pas juste une reprise sportive, c'est une vraie remise en forme globale : retrouver ton corps, ta vitalité, et même un peu de temps pour toi, parce que tu le mérites !",
+            "Prête à te lancer ? On y va à ton rythme, avec bienveillance et efficacité."
+            ]
+      },
+      {
+        "question": "Quels sont les avantages de reprendre une activité physique après l'accouchement ?",
+        "answers": [
+            "Reprendre une activité physique après l'accouchement, c'est bien plus qu'une question de forme physique : c'est un vrai cadeau que tu fais à ton corps et à ton esprit.",
+            "D'abord, cela t'aide à renforcer les muscles profonds, notamment le périnée et les abdominaux, pour retrouver une base solide et prévenir les inconforts comme les fuites urinaires ou les douleurs lombaires. Tu te sentiras plus forte, plus tonique, et prêt à relever les défis du quotidien (portage de bébé inclus !).",
+            "C'est aussi une super manière de booster ton énergie. Parce qu'entre les nuits courtes et les journées bien remplies, bouger un peu peut faire des miracles pour te redonner un coup de peps et chasser cette sensation de fatigue constante.",
+            "Et ne sous-estimons pas les bienfaits sur le moral. Le sport libère des endorphines, ces fameuses hormones du bonheur, qui t'aident à te sentir mieux dans ta peau et à prendre un peu de recul sur le tourbillon émotionnel du post-partum.",
+            "Enfin, c'est un moment rien qu'à toi. Que ce soit à la maison ou en salle, tu te recentres, tu prends soin de toi, et tu te reconnectes avec ton corps. Et franchement, après tout ce qu'il a fait pour toi, il mérite un peu d'amour, non ?",
+            "Alors, prête à te lancer ? Tout en douceur, et toujours à ton rythme, on y va ensemble."
+        ]
+      },
+      {
+        "question": "Quels sont les tarifs de vos programmes et abonnements ?",
+        "answers": [
+            "Mes tarifs dépendent du programme que tu choisis et de la formule qui correspond le mieux à tes besoins. Que tu sois intéressée par des cours collectifs, du one-to-one, à domicile ou en salle, j'ai une option adaptée à ton rythme et à tes objectifs.",
+            "👉 Découvre toutes mes formules et choisis celle qui vous convient ici !",
+            "N'hésite pas à jeter un œil et à me contacter si tu as des questions ou si tu as besoin d'aide pour trouver ce qui te correspond le mieux. Je suis là pour t'accompagner !"
+        ]
+      }
+    ]
+  }
+  

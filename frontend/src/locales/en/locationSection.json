@@ -1,0 +1,16 @@
+{
+    "title": "Want to join a session with other moms?",
+    "subtitle": "Find me in ",
+    "text": "Ile-de-France:",
+    "locations": [
+      { "name": "Rueil-Malmaison", "postal": "92500" },
+      { "name": "Roissy-en-Brie", "postal": "77680" },
+      { "name": "Ferrière en Brie", "postal": "77164" }
+    ],
+    "description": "If you prefer to stay home with your baby, no problem! I can come to you for One-to-One sessions directly at your home. You also have the option to join my online classes and enjoy personalized support, wherever you are.",
+    "buttons": {
+      "collective": "GROUP CLASSES",
+      "one_to_one": "ONE-TO-ONE CLASSES"
+    }
+  }
+  

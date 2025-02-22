@@ -1,0 +1,34 @@
+{
+    "title": "Legal Mentions",
+    "sections": {
+      "dataProtection": {
+        "title": "Personal Data Protection",
+        "content": "At Yobson, we place the utmost importance on the confidentiality of your data. No personal information will be collected without your explicit consent. Data provided through our forms is used solely to respond to your requests, send you information, or offer you tailored services. In accordance with the French Data Protection Act No. 78-17 of January 6, 1978, and the General Data Protection Regulation (GDPR), you have the right to access, modify, rectify, and delete your data. To exercise these rights, contact us by email at contact@yobson.com."
+      },
+      "cookies": {
+        "title": "Cookies and Tracking Technologies",
+        "content": "We only use cookies that are strictly necessary for the proper functioning of the site. No advertising or marketing tracking cookies are used. You can manage your cookie preferences in your browser settings."
+      },
+      "externalLinks": {
+        "title": "External Links",
+        "content": "The Yobson site may contain links to third-party websites. We are not responsible for their content or privacy policies. We encourage you to review their legal notices before any use."
+      },
+      "legalInfo": {
+        "title": "Legal Information",
+        "content": "Yobson\nAddress: [Add address]\nSIRET: [SIRET number]"
+      },
+      "publication": {
+        "title": "Publication Manager",
+        "content": "Diane Yobson"
+      },
+      "development": {
+        "title": "Development & Design",
+        "content": "This site was designed and developed by Ginseng Web Agency\n44 rue Jean Mermoz 78600 Maisons-Laffitte\nManager: Anaïs CAMARA\nPhone: 01 84 79 06 60\nEmail address: anais@ginsengweb.fr\nhttps://www.ginsengweb.fr/"
+      },
+      "hosting": {
+        "title": "Hosting",
+        "content": "This site is hosted by: GoDaddy\nHeadquarters: 14455 N. Hayden Rd., Ste. 226\nScottsdale, AZ 85260 USA\nPhone: 09 75 18 70 39\nFax: (480) 624-2546\nEmail: HQ@godaddy.com\nReport abuse: abuse@godaddy.com\nhttps://www.godaddy.com/\nGoDaddy.com, LLC is a wholly owned subsidiary of GoDaddy Inc."
+      }
+    }
+  }
+  

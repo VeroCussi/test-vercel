@@ -1,0 +1,34 @@
+{
+    "title": "Mentions légales",
+    "sections": {
+      "dataProtection": {
+        "title": "Protection des données personnelles",
+        "content": "Chez Yobson, nous accordons une importance primordiale à la confidentialité de vos données. Aucune information personnelle ne sera collectée sans votre consentement explicite. Les données fournies via nos formulaires sont utilisées uniquement pour répondre à vos demandes, vous envoyer des informations ou vous proposer des services adaptés. Conformément à la loi « Informatique et Libertés » n° 78-17 du 6 janvier 1978 et au Règlement Général sur la Protection des Données (RGPD), vous disposez d’un droit d’accès, de modification, de rectification et de suppression de vos données. Pour exercer ces droits, contactez-nous par email à contact@yobson.com."
+      },
+      "cookies": {
+        "title": "Cookies et technologies de suivi",
+        "content": "Nous utilisons uniquement des cookies strictement nécessaires au bon fonctionnement du site. Aucun cookie de suivi publicitaire ou marketing n'est utilisé. Vous pouvez gérer vos préférences de cookies dans les paramètres de votre navigateur."
+      },
+      "externalLinks": {
+        "title": "Liens externes",
+        "content": "Le site Yobson peut contenir des liens vers des sites tiers. Nous ne sommes pas responsables de leur contenu ni de leur politique de confidentialité. Nous vous encourageons à consulter leurs mentions légales avant toute utilisation."
+      },
+      "legalInfo": {
+        "title": "Informations légales",
+        "content": "Yobson\nAdresse : [Ajouter l’adresse]\nSIRET : [Numéro SIRET]"
+      },
+      "publication": {
+        "title": "Responsable de la publication",
+        "content": "Diane Yobson"
+      },
+      "development": {
+        "title": "Développement & conception",
+        "content": "Ce site a été designé et développé par l’agence Ginseng Web\n44 rue Jean Mermoz 78600 Maisons-Laffitte\nResponsable : Anaïs CAMARA\nTéléphone : 01 84 79 06 60\nAdresse e-mail : anais@ginsengweb.fr\nhttps://www.ginsengweb.fr/"
+      },
+      "hosting": {
+        "title": "Hébergement",
+        "content": "Ce site est hébergé par : GoDaddy\nSiège principal 14455 N. Hayden Rd., Ste. 226\nScottsdale, AZ 85260 USA\nTéléphone : 09 75 18 70 39\nNuméro de fax : (480) 624-2546\nAdresse e-mail : HQ@godaddy.com\nSignaler un abus : abuse@godaddy.com\nhttps://www.godaddy.com/\nGoDaddy.com, LLC est une filiale en propriété exclusive de GoDaddy Inc."
+      }
+    }
+  }
+  

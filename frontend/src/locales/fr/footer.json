@@ -1,0 +1,29 @@
+{
+    "name": "Diane Yobson",
+    "title": "Coach Pré & Postnatal",
+    "subtitle": "Mieux vivre leur maternité grâce au sport",
+    "copyright": "Copyright © 2025 | <a href='/fr/mentions-legales' class='hover:underline'>Mentions légales</a> | Design & développé par Ginseng Web",
+    "programs": {
+      "pregnancy": "Programme Enceinte et en forme",
+      "postpartum": "Programme En forme après bébé",
+      "personalized": "Accompagnement personnalisé",
+      "prenatal": "Bilan prénatal offert",
+      "postnatal": "Bilan postnatal offert",
+      "partner": "Devenir partenaire"
+    },
+    "contact": {
+      "availability": "100% Dispo Pour Toi",
+      "phone": "06 67 29 52 91",
+      "email": "contact@yobson.com"
+    },
+    "socials": {
+      "instagram": "Instagram",
+      "whatsapp": "Whatsapp",
+      "youtube": "Youtube"
+    },
+    "links": {
+    "mentions": "Mentions légales",
+    "cgv": "Conditions générales de vente"
+  }
+  }
+  

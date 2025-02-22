@@ -1,0 +1,14 @@
+{
+    "title": "Inscris-toi !",
+    "nameLabel": "Quel est ton prénom",
+    "placeholder": "Prénom",
+    "emailLabel": "Ton adresse email",
+    "checkboxText": "J'accepte les termes et la politique de confidentialité",
+    "submitButton": "Créer mon compte",
+    "successMessage": "Merci ! Vous avez été ajouté à la liste d'attente.",
+    "errorMessage": "Erreur lors de l'inscription. Veuillez réessayer.",
+    "closeButton": "Fermer",
+    "formAlert": "Veuillez remplir tous les champs et accepter la politique de confidentialité.",
+    "subscriptionError": "Échec de l'abonnement. Vérifiez les informations et réessayez."
+  }
+  

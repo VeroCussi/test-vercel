@@ -1,0 +1,14 @@
+{
+    "title": "Sign up!",
+    "nameLabel": "What's your first name",
+    "placeholder": "Name",
+    "emailLabel": "Your email address",
+    "checkboxText": "I accept the terms and privacy policy",
+    "submitButton": "Create my account",
+    "successMessage": "Thank you! You have been added to the waitlist.",
+    "errorMessage": "Error during registration. Please try again.",
+    "closeButton": "Close",
+    "formAlert": "Please fill in all fields and accept the privacy policy.",
+    "subscriptionError": "Subscription failed. Check the information and try again."
+  }
+  

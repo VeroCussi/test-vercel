@@ -1,0 +1,29 @@
+{
+  "hero": {
+  "logoAlt": "Main logo",
+  "title": "How about staying in shape",
+  "subtitle": "during and after your pregnancy?",
+  "description": "With Diane, a coach specializing in perinatal care, take care of yourself gently and adopt healthy routines ",
+  "description1": "for a",
+  "description3": "pregnancy",
+  "description4": "and a",
+  "description5": "postpartum fulfilled."
+  },
+  "buttons": {
+    "rdv": "15-MIN APPOINTMENT",
+    "programs": "YOUR PROGRAMS"
+  },
+  "programsSection": {
+    "title": "MY PROGRAMS ARE MADE FOR YOU",
+    "yobson": "YOBSON",
+    "specialiste": "SPECIALIST",
+    "de": "OF",
+    "la": "THE",
+    "remise": "FITNESS",
+    "en": "IN",
+    "forme": "SHAPE",
+    "prenatal": "PRENATAL",
+    "et": "AND",
+    "postnatal": "POSTNATAL"
+}
+}

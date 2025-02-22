@@ -1,0 +1,88 @@
+{
+    "toggle_titles": {
+      "left": "CHOISIS TON PROGRAMME",
+      "right": "COMMENCE PAR UN BILAN"
+    },
+    "programsA": [
+      {
+        "title": "ABONNEMENT MENSUEL",
+        "subtitle": "Programmes en ligne avec vidéos",
+        "text": "Accès illimité aux programmes prénatal et postnatal, avec des vidéos guidées et des conseils personnalisés chaque semaine.",
+        "forfait": "* forfait mensuel",
+        "formule": "Choisis ta formule :",
+        "prix": ["49 € / mois *", "130 € / 3 mois d’engagement", "240 € / 6 mois d’engagement"],
+        "links": [
+        "",
+        "https://www.paypal.com/ncp/payment/44LUG6BVRGCFL",
+        "https://www.paypal.com/ncp/payment/JQ3DGBD7TT8TE"
+        ],
+        "buttonText": "COMMENCE AUJOURD’HUI",
+        "defaultCheckedIndex": 0
+      },
+      {
+        "title": "SÉANCES EN ONE-TO-ONE",
+        "subtitle": "En présentiel ou via Zoom",
+        "text": "Séance personnalisée d’1 heure adaptée au stade de maternité avec un suivi attentif et des conseils sur-mesure.",
+        "forfait": "* forfait à la séance",
+        "formule": "Choisis ta formule :",
+        "prix": ["60 € / la séance ", "280 € / Pack de 5 séances", "520 € / Pack de 10 séances"],
+        "links": [
+        "https://www.paypal.com/ncp/payment/YRA3WVZR88ZH2",
+        "https://www.paypal.com/ncp/payment/XRPZ8K2UAM3K4",
+        "https://www.paypal.com/ncp/payment/2T78FMN5QBRE4"
+        ],
+        "buttonText": "COMMENCE AUJOURD’HUI",
+        "isHighlighted": true,
+        "defaultCheckedIndex": 1
+      },
+      {
+        "title": "COURS COLLECTIFS",
+        "subtitle": "En groupe de 8 personnes max.",
+        "text": "Cours d’1 heure en petit groupe pour un accompagnement de qualité, basé sur la méthode de Gasquet.",
+        "forfait": "* forfait mensuel",
+        "formule": "Choisis ta formule (prix par personne) :",
+        "prix": ["15 € / cours", "55 € / mois soit 1 cours/semaine*", "100 € / mois soit 2 cours/semaine*"],
+        "links": [
+        "https://www.paypal.com/ncp/payment/UQG2MQ5LRWHUE",
+        "",
+        ""
+        ],
+        "buttonText": "COMMENCE AUJOURD’HUI",
+        "defaultCheckedIndex": 0
+      }
+    ],
+    "programsB": [
+    {
+      "title": "BILAN PRÉNATAL",
+      "subtitle": "Ton corps évolue chaque jour, et avec lui, mille questions se posent.",
+      "text": "Prends quelques minutes pour remplir ce bilan prénatal. C’est la première étape pour retrouver sérénité et confiance en toi. Ce moment est à toi, une parenthèse pour écouter ton corps et tes émotions.",
+      "text1": "Clique sur le bouton ci-dessous, et commençons dès maintenant cette belle aventure ensemble.",
+      "prix": [],
+      "buttonText": "FAIS TON BILAN PRÉNATAL",
+      "isLargeText": true,
+      "formType": "prenatal"
+    },
+    {
+      "title": "BILAN POSTNATAL",
+      "subtitle": "Après l’arrivée de bébé, il est temps de penser à toi.",
+      "text": "Prends quelques minutes pour remplir ce bilan postnatal. C’est la première étape pour te retrouver et te sentir bien dans ton corps et dans ta tête.",
+      "text1": "Clique sur le bouton ci-dessous et commençons cette belle reprise, ensemble.",
+      "prix": [],
+      "buttonText": "FAIS TON BILAN POSTNATAL",
+      "isHighlighted": true,
+      "isLargeText": true,
+      "formType": "postnatal"
+    },
+    {
+      "title": "JE VEUX FAIRE DU SPORT POUR ME REMETTRE EN FORME",
+      "subtitle": "Prête à reprendre le contrôle de ton bien-être ? ",
+      "text": "Prends quelques minutes pour remplir ce bilan global. C’est la première étape pour te remettre en forme et atteindre tes objectifs.",
+      "text1": "Clique sur le bouton ci-dessous et commençons ensemble cette belle aventure.",
+      "prix": [],
+      "buttonText": "FAIS TON BILAN GLOBAL",
+      "isLargeText": false,
+      "formType": "global"
+    }
+
+  ]
+}

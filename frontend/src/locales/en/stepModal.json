@@ -1,0 +1,54 @@
+{
+    "titles": {
+      "prenatal": "Prenatal Assessment",
+      "postnatal": "Postnatal Assessment",
+      "global": "Global Assessment"
+    },
+    "questions": {
+      "age": "How old are you?",
+      "firstChild": "Is this your first child?",
+      "trimester": "In terms of trimester, where are you?",
+      "postpartum": "I gave birth:",
+      "reeducation": "Have you done your rehabilitation sessions?",
+      "activityBefore": "Before your pregnancy you were:",
+      "currentState": "How do you feel during pregnancy?",
+      "objective": "What are you looking for?",
+      "availability": "What are your availabilities?"
+    },
+    "options": {
+      "age": ["20 - 25 years", "25 - 30 years", "30 - 35 years", "+ 35 years"],
+      "firstChild": ["Yes", "No"],
+      "trimester": ["1st trimester", "2nd trimester", "3rd trimester"],
+      "postpartum": ["1 month", "3 months", "6 months", "More than 6 months"],
+      "reeducation": ["Yes", "No"],
+      "activity": ["Athletic", "Somewhat active", "Sedentary"],
+      "currentState": ["I feel tired", "Feeling great", "I have ligament pain"],
+      "objective": ["Stay in shape", "Relaxation", "Reduce pain", "Have energy"],
+      "availability": ["Once a week", "Twice a week", "Three times a week"]
+    },
+    "buttons": {
+      "next": "Continue →",
+      "back": "Back",
+      "submit": "Sign up",
+      "download": "Download your free eBook",
+      "finish": "Finish"
+    },
+    "messages": {
+      "success": "🎉 Thank you for your information!",
+      "downloadPrompt": "Download your free eBook by clicking the button below.",
+      "schedule": "Book a time slot now",
+      "schedulePrompt": "Don't postpone to tomorrow, take control today!",
+      "validationError": "Please select an option before continuing.",
+      "formSuccess": "User added successfully",
+      "formError": "Subscription failed"
+    },
+    "form": {
+      "name": "What is your first name",
+      "email": "Your email address",
+      "phone": "Your phone number?"
+    },
+    "text": {
+    "text": "Hello, Hello!! You are pregnant and you want to stay in shape during your pregnancy."
+  }
+  }
+  
