@@ -1,6 +1,6 @@
 require("dotenv").config();
 // const serverless = require("serverless-http");
-const app = require("./app");
+// const app = require("./app");
 // module.exports = serverless(app);
 
 //Lo que viene de App + Importacion de rutas
