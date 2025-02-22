@@ -33,13 +33,13 @@ require("dotenv").config();
 // };
 
 // Intentar sincronizar la base de datos, pero no bloquear el servidor si falla
-// sequelize.sync({ alter: false })
-//   .then(() => {
-//     console.log("✅ Database connected successfully.");
-//     startServer();
-//   })
-//   .catch(error => {
-//     console.warn("⚠️ Unable to connect to the database. The server will still run.");
-//     console.warn(error.message);
-//     startServer(); // Iniciar el servidor aunque la base de datos no funcione
-//   });
+sequelize.sync({ alter: false })
+  .then(() => {
+    console.log("✅ Database connected successfully.");
+    startServer();
+  })
+  .catch(error => {
+    console.warn("⚠️ Unable to connect to the database. The server will still run.");
+    console.warn(error.message);
+    startServer(); // Iniciar el servidor aunque la base de datos no funcione
+  });
