@@ -1,21 +1,15 @@
 // Comentado para añadir a index.js
-const express = require('express');
-const path = require('path');
-const cors = require('cors');
-const app = express();
-app.use(cors({ origin: '*' }));
-app.use(express.json());
-
-
+// const express = require('express');
+// const path = require('path');
+// const cors = require('cors');
+// const app = express();
+// app.use(cors({ origin: '*' }));
+// app.use(express.json());
+// require("dotenv").config();
 
 //const morgan = require('morgan');
 //const helmet = require('helmet');
 //const cookieParser = require('cookie-parser');
-require("dotenv").config();
-
-
-
-
 
 //app.use(cookieParser());
 //app.use(morgan('dev'));
@@ -44,18 +38,4 @@ require("dotenv").config();
 // // Responde a las solicitudes OPTIONS en todas las rutas
 // app.options('*', cors(corsOptions));
 
-// Import de rutas
-const routeUser = require('./routes/routeUser');
-const subscribeRoutes = require('./routes/subscribeRoutes'); // Ruta para Brevo
 
-app._router.stack.forEach((r) => {
-    if (r.route && r.route.path) {
-      console.log(`Ruta activa: ${r.route.path}`);
-    }
-  });
-
-// Uso de las rutas
-app.use('/users', routeUser);
-app.use('/api', subscribeRoutes);
-
-module.exports = app;
