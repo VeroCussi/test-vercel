@@ -33,8 +33,8 @@ const StepModal: React.FC<StepModalProps> = ({ isOpen, onClose, selectedForm }) 
   // Objeto para mapear el formulario seleccionado a la URL del PDF
   const pdfLinks: { [key: string]: string } = {
     prenatal: "https://qogqafedua51ovly.public.blob.vercel-storage.com/pdfyobson/prenatal-dHt75N44XkbEFJqtXdksQi9OkAzOG8.pdf",
-    postnatal: "https://ginsengweb-my.sharepoint.com/:b:/g/personal/anais_ginsengweb_fr/EWUKKPcyHghLsYHOYBKn_WMBO0utB8RwW6T9VHau0bAtow?e=3U1Gz5",
-    global: "https://ginsengweb-my.sharepoint.com/:b:/g/personal/anais_ginsengweb_fr/EfnJ4Qf6rGFGv3FHuK5rvpEBfjWp0M6UE0YupzxfOr_k1Q?e=4g9t2x",
+    postnatal: "https://qogqafedua51ovly.public.blob.vercel-storage.com/pdfyobson/postnatal-iQmgjADT04XmFywLUk74Eon74YyPU4.pdf",
+    global: "https://qogqafedua51ovly.public.blob.vercel-storage.com/pdfyobson/prenatal-dHt75N44XkbEFJqtXdksQi9OkAzOG8.pdf",
   };
 
   // Función para actualizar las respuestas del cuestionario
