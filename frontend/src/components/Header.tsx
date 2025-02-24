@@ -128,7 +128,7 @@ const Header = () => {
           </button>
 
           {/* Menú desplegable en móvil */}
-          <div className={`absolute top-12 bg-white w-48 shadow-md rounded-md right-0 
+          <div className={`absolute top-12 bg-white w-48 shadow-md rounded-md right-0 z-50
             lg:hidden overflow-hidden transition-all duration-300 ${
               mobileMenuVisible ? 'max-h-screen scale-y-100' : 'max-h-0 scale-y-0'
             }`}
